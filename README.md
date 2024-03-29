@@ -1,7 +1,5 @@
 # Hi there, I'm Daria!
 
----
-
 ## About Me
 
 👩‍💻 **Front-End Developer** | Seeking Exciting Projects
@@ -16,13 +14,11 @@
 
 🔍 Currently actively seeking new opportunities in the field.
 
----
-
 ## My Contacts
 
-[Telegram](https://t.me/d_khn) | [WhatsApp](https://wa.me/33624894858)
-
----
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/d_khn)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/33624894858)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:khaninadaria@gmail.com)
 
 ## Technologies
 
