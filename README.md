@@ -8,11 +8,9 @@
 
 🚀 Embarked on my journey into the world of web development in 2022.
 
-🎓 Successfully completed the "Web Developer" course at Yandex.Practicum, honing my skills in HTML, CSS, JavaScript, and React.
+🎓 Honing my skills in HTML, CSS, JavaScript, and React.
 
 💡 Eager to contribute to meaningful projects that positively impact people's lives.
-
-🔍 Currently actively seeking new opportunities in the field.
 
 ## My Contacts
 
