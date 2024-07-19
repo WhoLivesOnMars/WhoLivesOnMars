@@ -2,7 +2,7 @@
 
 ## About Me
 
-👩‍💻 **Front-End Developer** | Seeking Exciting Projects
+👩‍💻 **Learning web development**
 
 🌟 Former IT Project Manager turned Front-End Developer with a passion for creating user-friendly web experiences.
 
