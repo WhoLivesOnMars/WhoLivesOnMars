@@ -8,7 +8,7 @@
 
 🚀 Embarked on my journey into the world of web development in 2022.
 
-🎓 Honing my skills in HTML, CSS, JavaScript, and React.
+🎓 Honing my skills in HTML, CSS, JavaScript, PHP and SQL.
 
 💡 Eager to contribute to meaningful projects that positively impact people's lives.
 
